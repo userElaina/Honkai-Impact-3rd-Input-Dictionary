@@ -1,0 +1,9 @@
+.vscode/
+archive/
+*/temp/
+tempCodeRunnerFile.*
+
+*.jfproj
+# *.json
+*.scel
+__pycache__
